@@ -11,7 +11,7 @@ I am a Second-year Computer Science & Engineering student at **Ajay Kumar Garg E
 - 🚀 Currently working as a **Trainee at Team Conatus**.
 - 🛠️ Building **ALIGN** (AI Resume Screener) and **YouQuiz** (AI Quiz Generator).
 - 🧠 Deeply interested in **Machine Learning Algorithms** and **System Architecture**.
-- 🎨 Passionate about **Graphic Design** (Lo-fi/Grunge aesthetics) and **UI/UX**.
+- 🎨 Passionate about **Graphic Design** (Lo-fi/Grunge aesthetics) and **UI/UX**..
 
 ---
 
