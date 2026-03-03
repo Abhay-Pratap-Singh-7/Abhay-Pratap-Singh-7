@@ -1,6 +1,6 @@
 <h1 align="center">I'm Abhay Pratap Singh</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Machine+Learning+Developer;Full+Stack+Developer;Second+Year+B.Tech+Student;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=App+Developer;Machine+Learning+Developer;Second+Year+B.Tech+Student;Open+Source+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
@@ -52,4 +52,4 @@ I am a Second-year Computer Science & Engineering student at **Ajay Kumar Garg E
 - 📧 **Email:** [abhaypratapsingh2993@gmail.com](mailto:abhaypratapsingh2993@gmail.com)
 - 💼 **LinkedIn:** [Abhay Pratap Singh](https://linkedin.com/in/abhay-pratap-singh-245a32328)
 - 🏆 **LeetCode:** [18wagxvmr1](https://www.leetcode.com/18wagxvmr1)
-- 📄 **Resume:** [View My CV](https://drive.google.com/file/d/1WhE09X_Z6tGi5OU_-ST-Uy-y3BNstKFF/view?usp=sharing)
+- 📄 **Resume:** [View My CV](https://drive.google.com/file/d/1FmxfYn1TGke1C1FYtyPHE5d8kE1CBg3D/view?usp=sharing)
