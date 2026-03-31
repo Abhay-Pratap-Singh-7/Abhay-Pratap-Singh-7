@@ -1,23 +1,22 @@
-<h1 align="center">I'm Abhay Pratap Singh</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Abhay%20Pratap%20Singh&fontAlign=50&fontAlignY=40&fontSize=65&animation=twinkling&desc=App%20Developer%20•%20ML%20Engineer&descAlignY=65&section=header&width=1000" width="100%" />
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=App+Developer;Machine+Learning+Developer;Second+Year+B.Tech+Student;Open+Source+Enthusiast" alt="Typing SVG" />
+  <a href="mailto:abhaypratapsingh2993@gmail.com"><img src="https://img.shields.io/badge/Email-abhaypratapsingh2993@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/abhay-pratap-singh-245a32328/"><img src="https://img.shields.io/badge/LinkedIn-Abhay%20Pratap%20Singh-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://leetcode.com/u/18WAgXvMr1/"><img src="https://img.shields.io/badge/LeetCode-Abhay%20Pratap%20Singh-black?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
+  <a href="https://drive.google.com/file/d/1FmxfYn1TGke1C1FYtyPHE5d8kE1CBg3D/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Abhay%20Pratap%20Singh-0077B5?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 </p>
 
 ---
-
-### 💫 About Me
-I am a Second-year Computer Science & Engineering student at **Ajay Kumar Garg Engineering College**. I bridge the gap between robust backend logic and intuitive user experiences, with a heavy focus on AI-driven automation.
-
-- 🚀 Currently working as a **Machine Learning developer at Team Conatus**.
-- 🛠️ Building **ALIGN** (AI Resume Screener) and **YouQuiz** (AI Quiz Generator).
-- 🧠 Deeply interested in **Machine Learning Algorithms** and **System Architecture**.
-- 🎨 Passionate about **Graphic Design** (Lo-fi/Grunge aesthetics) and **UI/UX**..
-
+      
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=App+Developer;Machine+Learning+Developer;Second+Year+B.Tech+Student;Open+Source+Enthusiast" alt="Typing SVG" />
+</p>
+<p align="center">I am a Second-year Computer Science & Engineering student at **Ajay Kumar Garg Engineering College**. I bridge the gap between robust backend logic and intuitive user experiences, with a heavy focus on AI-driven automation.</p>
+  
 ---
 
-### 🛠️ Tech Stack & Tools
-
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -37,19 +36,22 @@ I am a Second-year Computer Science & Engineering student at **Ajay Kumar Garg E
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhay-pratap-singh-7&show_icons=true&theme=tokyonight" alt="Abhay's Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay-Pratap-Singh-7&theme=tokyo-night" alt="Daily Activity Graph" />
+  <table align="center" style="border-collapse: collapse;">
+    <tr>
+      <td style="background-color: white; border: 1px solid #e1e4e8; padding: 10px; border-radius: 6px;">
+        <img src="https://github.com/Abhay-Pratap-Singh-7/Abhay-Pratap-Singh-7/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
 
-### 🤝 Connect with Me
-- 📧 **Email:** [abhaypratapsingh2993@gmail.com](mailto:abhaypratapsingh2993@gmail.com)
-- 💼 **LinkedIn:** [Abhay Pratap Singh](https://linkedin.com/in/abhay-pratap-singh-245a32328)
-- 🏆 **LeetCode:** [18wagxvmr1](https://www.leetcode.com/18wagxvmr1)
-- 📄 **Resume:** [View My CV](https://drive.google.com/file/d/1FmxfYn1TGke1C1FYtyPHE5d8kE1CBg3D/view?usp=sharing)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhay-Pratap-Singh-7&theme=tokyo-night" alt="Daily Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+</p>
