@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=App+Developer;Machine+Learning+Developer;Second+Year+B.Tech+Student;Open+Source+Enthusiast" alt="Typing SVG" />
 </p>
-<p align="center">I am a Second-year Computer Science & Engineering student at **Ajay Kumar Garg Engineering College**. I bridge the gap between robust backend logic and intuitive user experiences, with a heavy focus on AI-driven automation.</p>
+<p align="center">I am a Third-year Computer Science & Engineering student at **Ajay Kumar Garg Engineering College**. I bridge the gap between robust backend logic and intuitive user experiences, with a heavy focus on AI-driven automation.</p>
   
 ---
 
