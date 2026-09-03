@@ -4,7 +4,7 @@
   <a href="mailto:abhaypratapsingh2993@gmail.com"><img src="https://img.shields.io/badge/Email-abhaypratapsingh2993@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/abhay-pratap-singh-245a32328/"><img src="https://img.shields.io/badge/LinkedIn-Abhay%20Pratap%20Singh-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://leetcode.com/u/18WAgXvMr1/"><img src="https://img.shields.io/badge/LeetCode-Abhay%20Pratap%20Singh-black?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
-  <a href="https://drive.google.com/file/d/1FmxfYn1TGke1C1FYtyPHE5d8kE1CBg3D/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Abhay%20Pratap%20Singh-0077B5?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1_Co-nOfFxO55DOCKlBY2Ys8DsRpjNBm-/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Abhay%20Pratap%20Singh-0077B5?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 </p>
 
 ---
